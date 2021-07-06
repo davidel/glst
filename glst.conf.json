@@ -1,0 +1,18 @@
+{
+    "reject_msg": "451 Please try again later",
+    "reject_error": 19,
+    "timeout": 300,
+    "expire_timeout": 604800,
+    "lame_timeout": 7200,
+    "cleanup_interval": 3600,
+    "error_return": 0,
+    "whitelist_address": [
+	"127.0.0.1"
+    ],
+    "whitelist_domains": [
+	"google.com",
+	"yahoo.com",
+	"outlook.com"
+    ],
+    "blacklist_domains": []
+}
